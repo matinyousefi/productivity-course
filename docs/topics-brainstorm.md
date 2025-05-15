@@ -1,0 +1,20 @@
+- markdown
+- google tasks, calender
+- project manegment (jira)
+- git as version control
+- git as hosting online document 
+- LaTeX
+- VScode
+- claud storage
+- documentation (confluence, google drive, s3)
+- automation (scripting in windows)
+- python
+- library using
+- api calling (chatgpt, postman)
+- Digital Knowledge Base Creation –  Obsidian or Dendron 
+- text extraction
+- text to speech
+- Building Personal Dashboards
+- Versioning Content Without GitHub
+- PDF Manipulation and Conversion
+- Password Management and Digital Security
